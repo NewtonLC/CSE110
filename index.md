@@ -1,5 +1,5 @@
 # Newton Chung 
-<img src="TCWGlobal_Selfie.jpg" title="I stepped in dog poop after taking this picture" height="300" width="220">
+<img src="images/TCWGlobal_Selfie.jpg" title="I stepped in dog poop after taking this picture" height="300" width="220">
 
 Hello! I'm a third year Math-CS major who went from straight A's to "C's get degrees".
 
@@ -7,10 +7,7 @@ Hello! I'm a third year Math-CS major who went from straight A's to "C's get deg
 
 [About me](https://github.com/NewtonLC/CSE110/edit/main/index.md#about-me)
 
-[Past projects](https://github.com/NewtonLC/CSE110/edit/main/index.md#past-projects)
-
-[Other experience](https://github.com/NewtonLC/CSE110/edit/main/index.md#other-experience)
-
+[Past experience](https://github.com/NewtonLC/CSE110/edit/main/index.md#past-experience)
 
 ## About Me
 
@@ -18,7 +15,9 @@ I'd consider myself an alright programmer, but I don't have any SE experience, w
 As a teammate, I am patient and flexible, and I like to maintain steady communication in my team. Though I wanted to gain experience in programming,
 I'm really starting to see that SE involves much more, so I'm just looking to fill whatever roles my team will need.
 
-You can find me in the **VGDC** or **CSForEach**, or if you're taking **MATH 103B** with Yunze Lu or **LIHL 118** this quarter. *My discord username is "skit.s"*
+You can find me in **MATH 103B** with Yunze Lu or **LIHL 118** this quarter, or if you have Discord. My Discord username is "skit.s"
+
+I'm also a member in VGDC and CSForEach!
 
 I'm not sure how to incorporate ordered and unordered lists in a natural way so here are my favorite conventional ice cream flavors.
 1. Cookies and Cream
@@ -35,26 +34,21 @@ TODO:
 - [ ] Start sleeping earlier(not past midnight)
 - [ ] Make flossing a habit
 - [ ] Figure out life
-- [x] Eat oreos
+- [x] **_Eat oreos_**
 
-## Past Projects
-
-TODO: Go over some of your past projects
-- Picture
-- Small description of the project to a CS audience (in quote)
-  - Add links to the projects' itch.io pages? []()
-- Explain my role
+## Past Experience
 
 ### OLANA, Unity project
+<img src="images/OLANA_Pic.png" height="250" width="500">
 
-> This is a game project that I worked on in a group of 5.
+> This is a game project that I worked on in a group of 5 in VGDC. It's an arcade-style endless survival game that currently is only available on [itch.io](https://newtonlc.itch.io/olana). I programmed several key features and helped coordinate the project with my team, becoming more familiar with Github and Unity in the process. I gained some experience with group projects and communication, but it seems like it'll be different from CSE 110 in many ways.
 
-I contributed to programming and slightly in design. I became more familiar with Github, Unity, and just working with a team through building this project.
+### CSForEach Curriculum Member
+<img src="https://media.licdn.com/dms/image/D560BAQH3kPNA1oERmg/company-logo_200_200/0/1707112823547/csforeach_logo?e=2147483647&v=beta&t=4JznBLJ1IvAsKqVZ15IHAFxOyyf5VUPAP5_FePjhb6s" height="200" width="200">
 
-## Other Experience
+> [Click to learn more about CSFE](https://www.csforeach.org/). As a curriculum member, I've been able to help build and present a few workshops throughout Winter quarter. I also plan to help in TritonHacks in May.
 
-TODO: CSForEach, US Cyber Initiative
-- Pic of company/orgnization logo
-- Small description of what organization is about (in quote)
-  - Add links to the orgs' main sites? []()
-- Explain what I've done in these positions
+### Assistant Bootcamp Instructor
+<img src="https://i0.wp.com/azcyber.org/wp-content/uploads/2024/02/US-CYBER-Initiative-Logo.png?resize=1080%2C327&ssl=1" height="200" width="600">
+
+> Originally AZ Cyber Initiative, they expanded to focus on students throughout the US. [Here's their website!](https://azcyber.org/) During this internship, I worked part-time alongside a group of instructors and presented modules from [TryHackMe.com](https://tryhackme.com/) to high school students.
