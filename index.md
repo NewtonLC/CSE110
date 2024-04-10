@@ -5,9 +5,9 @@ Hello! I'm a third year Math-CS major who went from straight A's to "C's get deg
 
 <img src="https://www.dictionary.com/e/wp-content/uploads/2018/03/This-is-Fine-300x300.jpg" height="30" width="30">
 
-[About me](https://github.com/NewtonLC/CSE110/edit/main/index.md#about-me)
+[About me](https://newtonlc.github.io/CSE110/#about-me)
 
-[Past experience](https://github.com/NewtonLC/CSE110/edit/main/index.md#past-experience)
+[Past experience](https://newtonlc.github.io/CSE110/#past-experience)
 
 ## About Me
 
